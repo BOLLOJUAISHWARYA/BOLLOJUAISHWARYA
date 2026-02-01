@@ -19,7 +19,7 @@ Data Scientist • Machine Learning • Cloud & DevOps Exposure
 
 I’m **Aishwarya Bolloju**, with **4+ years of professional experience in Data Science and Data Engineering**, working on real-world industrial, environmental, and healthcare analytics problems.
 
-My experience includes building **machine learning and time-series forecasting models**, performing advanced data analysis, and developing reliable data pipelines. I have also worked closely with production systems, gaining hands-on experience with **AWS, Linux, CI/CD pipelines, Docker, Terraform, and Ansible**.
+My experience includes building **machine learning and deep learning models**, performing advanced data analysis, and developing reliable data pipelines. I have also worked closely with production systems, gaining hands-on experience with **AWS, Linux, CI/CD pipelines, Docker, Terraform, and Ansible**.
 
 I enjoy taking data solutions from experimentation to execution while improving **automation, reliability, and operational efficiency**.
 
