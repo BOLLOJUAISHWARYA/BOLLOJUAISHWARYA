@@ -76,9 +76,5 @@ I enjoy taking data solutions from experimentation to execution while improving 
 ---
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
 </p>
